@@ -33,6 +33,7 @@ dependencies {
 
 apply plugin: 'java'
 apply plugin: 'application'
+apply plugin: 'checkstyle'
 
 mainClassName = 'Main'
 
